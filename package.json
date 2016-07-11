@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:JumpLink/angular-toggle-switch.git"
+    "url": "git@github.com:darkguy2008/angular-toggle-switch.git"
   },
   "license": "MIT",
   "keywords": [
@@ -67,6 +67,7 @@
     "Shinework <adrien.baptiste@gmail.com>",
     "Taylor Brushwyler <tbrushwyler@ostusa.com>",
     "Tom Vincent <git@tlvince.com>",
-    "alexndlm <alexndlm@gmail.com>"
+    "alexndlm <alexndlm@gmail.com>",
+    "Alemar Osorio <darkguy2008@gmail.com>"
   ]
 }

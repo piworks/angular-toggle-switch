@@ -54,6 +54,7 @@ angular.module('toggle-switch', ['ng']).directive('toggleSwitch', ['$compile', f
 				scope.onKeyPress = function onKeyPress($event) {
 					if ($event.charCode == spaceCharCode && !$event.altKey && !$event.ctrlKey && !$event.metaKey) {
 						scope.toggle();
+						$event.preventDefault();
 					}
 				};
 

@@ -8,7 +8,7 @@
   "homepage": "http://jumplink.github.io/angular-toggle-switch/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JumpLink/angular-toggle-switch.git"
+    "url": "https://github.com/darkguy2008/angular-toggle-switch.git"
   },
   "devDependencies": {
     "angular": ">=1.0",

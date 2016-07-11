@@ -1,4 +1,4 @@
-# AngularJS Bootstrap 2/3 Toggle Switch [![Build Status](https://travis-ci.org/JumpLink/angular-toggle-switch.png?branch=master)](https://travis-ci.org/JumpLink/angular-toggle-switch)
+# AngularJS Bootstrap 2/3 Toggle Switch [![Build Status](https://travis-ci.org/darkguy2008/angular-toggle-switch.png?branch=master)](https://travis-ci.org/darkguy2008/angular-toggle-switch)
 
 Toggle Switches for AngularJS (and optionally Bootstrap). Based off [Bootstrap switch](http://www.larentis.eu/switch/) by Matt Lartentis and forked from [cgarvis](https://github.com/cgarvis/angular-toggle-switch).
 
