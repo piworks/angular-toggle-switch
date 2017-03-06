@@ -46,8 +46,8 @@ angular.module('toggle-switch', ['ng']).directive('toggleSwitch', ['$compile', f
 					if (!scope.isDisabled) {
 						scope.model = !scope.model;
 						ngModel.$setViewValue(scope.model);
-					}
-					scope.onChange();
+						scope.onChange();
+					}					
 				};
 
 				var spaceCharCode = 32;
