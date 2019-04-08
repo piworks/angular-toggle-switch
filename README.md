@@ -50,3 +50,5 @@ $ grunt test
 ```bash
 $ grunt release
 ```
+
+[JumpLink's angular-toggle-switch]: https://github.com/JumpLink/angular-toggle-switch
