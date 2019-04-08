@@ -25,7 +25,7 @@
     "bootstrap toggle switch"
   ],
   "main": "angular-toggle-switch.js",
-  "homepage": "http://cgarvis.github.io/angular-toggle-switch",
+  "homepage": "http://jumplink.github.io/angular-toggle-switch/",
   "devDependencies": {
     "bower": "~1.6.8",
     "grunt": "^0.4.4",
