@@ -26,6 +26,9 @@
   ],
   "main": "angular-toggle-switch.js",
   "homepage": "http://jumplink.github.io/angular-toggle-switch/",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "bower": "~1.6.8",
     "grunt": "^0.4.4",
