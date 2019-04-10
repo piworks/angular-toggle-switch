@@ -22,7 +22,7 @@ $ bower install angular-bootstrap-toggle-switch --save
 Or install with npm.
 
 ```bash
-$ npm install @ismailarilik/angular-bootstrap-toggle-switch
+$ npm install @piworks/angular-bootstrap-toggle-switch
 ```
 
 Load `angular-toggle-switch.min.js` then add the `toggle-switch` module to your Angular App.
